@@ -16,17 +16,10 @@ env/Scripts/activate
 pip install -r requirements.txt
 ```
 
-- Headover to Project Directory- 
-
-
-```
-cd sust_blog
-```
 - Make migrations using-
 ```
 python3 manage.py makemigrations
 ```
-
 
 - Migrate Database-
 ```
