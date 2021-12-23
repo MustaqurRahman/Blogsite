@@ -8,8 +8,8 @@ git clone https://github.com/MustaqurRahman/Blogsite.git
 
 - Create virtual environment-
 ```
-python -m venv env
-env/Scripts/activate
+python3 -m venv env
+source env/bin/activate
 ```
 - Install dependencies using-
 ```
